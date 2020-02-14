@@ -11,6 +11,6 @@ assignees: ''
 
 Instructions_for_how_to_run_the_test_and_tell_whether_it_passed.
 
-- Gecko: OS Browser_name_and_version ✓✘ Comments_here
-- Blink: OS Browser_name_and_version ✓✘  Comments_here
-- Webkit: OS Browser_name_and_version ✓✘  Comments_here
+- Gecko: ✓✘ Browser_name_and_version OS Comments_here
+- Blink: ✓✘ Browser_name_and_version OS Comments_here
+- Webkit: ✓✘ Browser_name_and_version OS Comments_here
