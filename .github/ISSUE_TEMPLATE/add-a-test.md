@@ -9,11 +9,12 @@ assignees: ''
 
 [test](snapshot_url_goes_here)
 
-Instructions_for_how_to_run_the_test_and_tell_whether_it_passed.
+Results:
 
-- Gecko: ✓✘ Browser_name_and_version OS Comments_here
-- Blink: ✓✘ Browser_name_and_version OS Comments_here
-- Webkit: ✓✘ Browser_name_and_version OS Comments_here
+- Gecko: ✅  Any_comments_here   _Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0_ 
+- Blink: ✅  Any_comments_here   _Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36_ 
+- Webkit: ❌  Any_comments_here   _Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15_ 
+
 
 
 Related tests: [results page](results_page_url_here)
