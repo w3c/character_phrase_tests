@@ -11,9 +11,9 @@ assignees: ''
 
 Results:
 
-- **Gecko:** ✅  Any_comments_here   _copy_Browser:_line_in_test_to_here_ 
-- **Blink:** ✅  Any_comments_here   _copy_Browser:_line_in_test_to_here_ 
-- **Webkit:** ❌  Any_comments_here   _copy_Browser:_line_in_test_to_here_ 
+- **Gecko:** ✅  Any_comments_here   _ copyHereTheBrowserInfoLineInTheTest _ 
+- **Blink:** ✅  Any_comments_here   _ copyHereTheBrowserInfoLineInTheTest _ 
+- **Webkit:** ❌  Any_comments_here   _ copyHereTheBrowserInfoLineInTheTest _ 
 
 
 
